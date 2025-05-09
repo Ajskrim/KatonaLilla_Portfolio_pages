@@ -30,9 +30,9 @@ This project focuses on analyzing HR data to answer key business questions relat
 
 
 
-*   [View the Source Code Files]({{ site.github.repository_url }}tree/main/Excel Projects)
-*   [See the Documentation Assets]({{ site.github.repository_url }}tree/main/SQL Projects)
-![Project Screenshot showing feature X]({{ 'Excel Project/Dashboard.png' | relative_url }})
+*   [View the Source Code Files]({{ site.github.repository_url }}/tree/main/Excel Projects)
+*   [See the Documentation Assets]({{ site.github.repository_url }}/tree/main/SQL Projects)
+![Project Screenshot showing feature X]({{ 'Excel Projects/Dashboard.png' | relative_url }})
 
 <a href="{{ site.github.repository_url/Excel%20Projects }}">{{ site.github.repository_name }}</a>
 
